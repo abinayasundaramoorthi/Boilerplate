@@ -62,6 +62,7 @@ As it stands, the server listens for requests to `/api`; to get this working in 
 [Express]: https://expressjs.com/
 [`http-proxy-middleware`]: https://github.com/chimurai/http-proxy-middleware
 
+## MY IDEA OF THIS PROJECT AND AREA OF IMPROVEMENT FROM MY SIDE
  As  a data science student i would do Machine Learning & AI Integration
 
 * Add movie recommendation system using simple ML algorithms (like collaborative filtering)
@@ -70,4 +71,6 @@ As it stands, the server listens for requests to `/api`; to get this working in 
 * Show understanding of integrating ML models via REST APIs or third-party services
 
 data science will help a lot to improve your current website also it will give stong prediction and integration for future enhancement
+
+
 
